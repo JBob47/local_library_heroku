@@ -30,7 +30,7 @@ DEBUG = bool(os.environ.get('DJANGO_DEBUG', True))
 
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['polar-springs-95510.herokuapp.com']
 
 
 # Application definition
